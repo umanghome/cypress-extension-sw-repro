@@ -8,6 +8,8 @@ Chrome Extensions are registered as service workers since Manifest v3 was introd
 
 This reproduction uses a Chrome Extension v3 starter template from [chrome-extension-v3-starter](https://github.com/SimGus/chrome-extension-v3-starter).
 
+Demo: [https://www.loom.com/share/3a95ae64a0fe4268a3360e31c8d02d2d](https://www.loom.com/share/3a95ae64a0fe4268a3360e31c8d02d2d)
+
 ## How to reproduce the issue
 
 Before getting started, install the packages (`npm ci`).
