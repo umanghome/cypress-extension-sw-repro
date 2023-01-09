@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cypress": "^12.3.0"
+  },
+  "name": "cypress-extension-sw-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --spec 'cypress/e2e/**/*' --browser chrome --headed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umanghome/cypress-extension-sw-repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umanghome/cypress-extension-sw-repro/issues"
+  },
+  "homepage": "https://github.com/umanghome/cypress-extension-sw-repro#readme",
+  "description": ""
+}
